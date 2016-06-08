@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/via/nick/Sample code/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/home/via/nick/Sample code/app/build/intermediates/pre-dexed/debug/classes-7c9f4c6dc3d705a7af8571cb261c38657a0815c7.jar" />
+    </item>
+    <item
+        jar="/home/via/nick/Sample code/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="/home/via/nick/Sample code/app/build/intermediates/pre-dexed/debug/classes-03b971969bc6ba45b589d0fac1ef1a8e93f9a369.jar" />
+    </item>
+    <item
+        jar="/home/via/nick/Sample code/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/home/via/nick/Sample code/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.1-9751e325d91a2da1110d94681e2c31a8e38af770.jar" />
+    </item>
+    <item
+        jar="/home/via/nick/Sample code/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/home/via/nick/Sample code/app/build/intermediates/pre-dexed/debug/classes-d8f61234032a6461691dafda204e67a8580ede8a.jar" />
+    </item>
+    <item
+        jar="/home/via/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/home/via/nick/Sample code/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.1-107549a864b54187a1eb60f90690de52a5afa7f2.jar" />
+    </item>
+    <item
+        jar="/home/via/nick/Sample code/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="/home/via/nick/Sample code/app/build/intermediates/pre-dexed/debug/classes-5fce61ea49da24f91b16ec9d916848f9a9f32712.jar" />
+    </item>
+
+</items>
